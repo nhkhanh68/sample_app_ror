@@ -1,0 +1,20 @@
+vn:
+  hello_world: Xin chao!
+  hello_flash: Xin chao flash!
+  wellcome: Welcome to the Sample App
+  signup: Dang ky!
+  wellcome: Welcome to the Sample App!
+  login: Dang nhap
+  home: Trang chu
+  invalid_email_password: Invalid email/password combination
+  layouts:
+    users:
+      wellcome: Welcome to the Sample App
+      signup: Dang Ky
+      confirmation: Confirmation
+    _header:
+      logout: Log out
+      profile: Profile
+      help: Help
+      sample app: sample app
+      acc: Account
