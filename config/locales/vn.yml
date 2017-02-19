@@ -18,3 +18,6 @@ vn:
       help: Help
       sample app: sample app
       acc: Account
+  sessions:
+    new:
+      remember_me: Remember me on this computer
