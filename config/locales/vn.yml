@@ -1,23 +1,37 @@
 vn:
-  hello_world: Xin chao!
-  hello_flash: Xin chao flash!
-  wellcome: Welcome to the Sample App
-  signup: Dang ky!
-  wellcome: Welcome to the Sample App!
-  login: Dang nhap
-  home: Trang chu
-  invalid_email_password: Invalid email/password combination
+  hello_world: Xin chào!
+  hello_flash: Xin chào flash!
+  wellcome: Chào mừng đến với Sample App
+  signup: Đăng ký!
+  login: Đăng nhập
+  home: Trang chủ
+  invalid_email_password: Không đúng password hoặc email
+  profile_updated: Profile đã thay đổi
+  pls_login: Vui lòng đăng nhập trước.
+  user_deleted: User đã được xóa
   layouts:
-    users:
-      wellcome: Welcome to the Sample App
-      signup: Dang Ky
-      confirmation: Confirmation
     _header:
-      logout: Log out
-      profile: Profile
-      help: Help
+      logout: Đăng xuất
+      profile: Trang cá nhân
+      help: Giúp đỡ
       sample app: sample app
-      acc: Account
+      acc: Tài Khoản
+      settings: Cài đặt
+      users: Người dùng
   sessions:
     new:
-      remember_me: Remember me on this computer
+      remember_me: Ghi nhớ đăng nhập trên máy tính này
+  users:
+      wellcome: Chào mừng đến với Sample App
+      signup: Đăng ký
+      confirmation: Xác nhận
+      index:
+        all_users: Tất cả Người dùng
+      _user:
+        you_sure: Bạn có chắc không?
+      edit:
+        update_profile: Thay đổi thông tin cá nhân
+        change: Thay đổi
+        edit_title: Sửa thông tin
+        save_changes: Lưu thay đổi
+      confirmation_pass: Xác nhận

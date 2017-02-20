@@ -8,17 +8,32 @@ en:
   login: Log in
   home: Home
   invalid_email_password: Invalid email/password combination
+  profile_updated: Profile updated
+  pls_login: Please log in first.
+  user_deleted: User deleted
   layouts:
-    users:
-      wellcome: Welcome to the Sample App
-      signup: Signup
-      confirmation: Confirmation
     _header:
       logout: Log out
       profile: Profile
       help: Help
       sample app: sample app
       acc: Account
+      settings: Settings
+      users: Users
   sessions:
     new:
       remember_me: Remember me on this computer
+  users:
+      wellcome: Welcome to the Sample App
+      signup: Signup
+      confirmation: Confirmation
+      index:
+        all_users: All Users
+      _user:
+        you_sure: You Sure?
+      edit:
+        update_profile: Update your profile
+        change: Change
+        edit_title: Edit user
+        save_changes: Save changes
+        confirmation_pass: Confirmation
