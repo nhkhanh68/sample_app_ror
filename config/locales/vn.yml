@@ -9,6 +9,7 @@ vn:
   profile_updated: Profile đã thay đổi
   pls_login: Vui lòng đăng nhập trước.
   user_deleted: User đã được xóa
+  account_activation: Kích hoạt tài khoản
   layouts:
     _header:
       logout: Đăng xuất
@@ -35,3 +36,12 @@ vn:
         edit_title: Sửa thông tin
         save_changes: Lưu thay đổi
       confirmation_pass: Xác nhận
+  user_mailer:
+    hi: Xin chào
+    wellcome: Xin chào đến với Sample App! Click link dưới đây để kích hoạt tài khoản của bạn
+    activate: Kích hoạt
+    pls_act_acc: Kiểm tra email của bạn để kích hoạt tài khoản
+    acc_not_act: Tài khoản chưa được kích hoạt
+    acc_act: Tài khoản được kích hoạt
+    invalid_link: Link kích hoạt không đúng
+    check_email: Kiểm tra email để có link kích hoạt

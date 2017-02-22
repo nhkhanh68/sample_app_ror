@@ -11,6 +11,7 @@ en:
   profile_updated: Profile updated
   pls_login: Please log in first.
   user_deleted: User deleted
+  account_activation: Account activation
   layouts:
     _header:
       logout: Log out
@@ -24,16 +25,25 @@ en:
     new:
       remember_me: Remember me on this computer
   users:
-      wellcome: Welcome to the Sample App
-      signup: Signup
-      confirmation: Confirmation
-      index:
-        all_users: All Users
-      _user:
-        you_sure: You Sure?
-      edit:
-        update_profile: Update your profile
-        change: Change
-        edit_title: Edit user
-        save_changes: Save changes
-        confirmation_pass: Confirmation
+    wellcome: Welcome to the Sample App
+    signup: Signup
+    confirmation: Confirmation
+    index:
+      all_users: All Users
+    _user:
+      you_sure: You Sure?
+    edit:
+      update_profile: Update your profile
+      change: Change
+      edit_title: Edit user
+      save_changes: Save changes
+      confirmation_pass: Confirmation
+  user_mailer:
+    hi: Hi
+    wellcome: Welcome to the Sample App! Click on the link below to activate your account
+    activate: Activate
+    pls_act_acc: Please check your email to activate your account
+    acc_not_act: Account not activated
+    acc_act: Account activatedTài khoản chưa được kích hoạt
+    invalid_link: Invalid activation link
+    check_email: Check your email for the activation link
