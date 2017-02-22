@@ -24,6 +24,19 @@ en:
   sessions:
     new:
       remember_me: Remember me on this computer
+      forgot_password: Forgot password
+  password_resets:
+    expired_pass: Password reset has expired
+    pass_has_been_resset: Password has been reset
+    cant_empty: can't be empty
+    email_reset_pass: Email sent with password reset instructions
+    email_not_found: Email address not found
+    edit:
+      update_password: Update Password
+      password_reset: Password reset
+    new:
+      forgot_password: Forgot password
+      submit: Submit
   users:
     wellcome: Welcome to the Sample App
     signup: Signup
@@ -47,3 +60,5 @@ en:
     acc_act: Account activatedTài khoản chưa được kích hoạt
     invalid_link: Invalid activation link
     check_email: Check your email for the activation link
+    password_reset: Password reset
+    click_reset_pass_link: To reset your password click the link below

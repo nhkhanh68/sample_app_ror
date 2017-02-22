@@ -22,6 +22,19 @@ vn:
   sessions:
     new:
       remember_me: Ghi nhớ đăng nhập trên máy tính này
+      forgot_password: Quên mật khẩu
+  password_resets:
+    expired_pass: Thay đổi mật khẩu hết hạn
+    pass_has_been_resset: Pass đã được thay đổi
+    cant_empty: không thể bỏ trống
+    email_reset_pass: Hướng dẫn đổi pass đã được gửi vào email của bạn
+    email_not_found: Không tìm thấy email
+    edit:
+      update_password: Thay đổi Password
+      password_reset: Reset mật khẩu
+    new:
+      forgot_password: Quên mật khẩu
+      submit: Xác nhận
   users:
       wellcome: Chào mừng đến với Sample App
       signup: Đăng ký
@@ -45,3 +58,5 @@ vn:
     acc_act: Tài khoản được kích hoạt
     invalid_link: Link kích hoạt không đúng
     check_email: Kiểm tra email để có link kích hoạt
+    password_reset: Reset mật khẩu
+    click_reset_pass_link: Để reset mật khẩu, click link sau

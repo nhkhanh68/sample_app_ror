@@ -1,3 +1,7 @@
+User.create! name: "hoangKhanh", email: "nhk@gmail.com",
+  password: "123456", password_confirmation: "123456",
+    admin: false, activated: true, activated_at: Time.zone.now
+
 User.create! name: "Khanh", email: "k@gmail.com",
   password: "123456", password_confirmation: "123456",
     admin: true, activated: true, activated_at: Time.zone.now
