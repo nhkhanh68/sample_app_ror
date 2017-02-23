@@ -48,7 +48,11 @@ vn:
         change: Thay đổi
         edit_title: Sửa thông tin
         save_changes: Lưu thay đổi
-      confirmation_pass: Xác nhận
+      new:
+        confirmation_pass: Xác nhận
+        create_acc: Tao tài khoản
+      show:
+        microposts: Microposts
   user_mailer:
     hi: Xin chào
     wellcome: Xin chào đến với Sample App! Click link dưới đây để kích hoạt tài khoản của bạn
@@ -60,3 +64,27 @@ vn:
     check_email: Kiểm tra email để có link kích hoạt
     password_reset: Reset mật khẩu
     click_reset_pass_link: Để reset mật khẩu, click link sau
+  microposts:
+    less_than_5MB: ảnh nhỏ hơn 5MB
+    micropost_created: Tạo thành công Micropost
+    micropost_deleted: Micropost duoc xoa
+    _microposts:
+      delete: xóa
+      posted: Được post lúc
+      you_sure: Bạn có chắc không?
+      ago: trước
+  static_pages:
+    home:
+      home_page: Đây là trang chủ của
+      tutorial: Hướng dẫn ve Ruby on Rails
+      micropost_feed: Các bài viết
+  shared:
+    _user_info:
+      view_my_profile: xem trang cá nhân của tôi
+      microposts: Bài viết
+    micropost_form:
+      max_size_5MB: Ảnh lớn nhất là 5MB
+      compose: Biên soạn bài viết
+      post: Đăng
+    feed:
+      no_post: Không có bài viết

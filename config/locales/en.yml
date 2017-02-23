@@ -4,7 +4,6 @@ en:
   hello_flash: Hello flash!
   wellcome: Welcome to the Sample App
   signup: Sign Up!
-  wellcome: Welcome to the Sample App!
   login: Log in
   home: Home
   invalid_email_password: Invalid email/password combination
@@ -51,6 +50,11 @@ en:
       edit_title: Edit user
       save_changes: Save changes
       confirmation_pass: Confirmation
+    new:
+      confirmation_pass: Confirmation
+      create_acc: Create my account
+    show:
+      microposts: Microposts
   user_mailer:
     hi: Hi
     wellcome: Welcome to the Sample App! Click on the link below to activate your account
@@ -62,3 +66,27 @@ en:
     check_email: Check your email for the activation link
     password_reset: Password reset
     click_reset_pass_link: To reset your password click the link below
+  microposts:
+    less_than_5MB: should be less than 5MB
+    micropost_created: Micropost created
+    micropost_deleted: Micropost deleted
+    _microposts:
+      delete: delete
+      posted: Posted
+      you_sure: You sure?
+      ago: ago
+  static_pages:
+    home:
+      home_page: This is the home page for the
+      tutorial: Ruby on Rails Tutorial
+      micropost_feed: Micropost Feed
+  shared:
+    user_info:
+      view_my_profile: view my profile
+      microposts: Microposts
+    micropost_form:
+      max_size_5MB: Maximum file size is 5MB. Please choose a smaller file
+      compose: Compose
+      post: Post
+    feed:
+      no_post: No Post
