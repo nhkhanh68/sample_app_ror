@@ -36,23 +36,29 @@ vn:
       forgot_password: Quên mật khẩu
       submit: Xác nhận
   users:
-      wellcome: Chào mừng đến với Sample App
-      signup: Đăng ký
-      confirmation: Xác nhận
-      index:
-        all_users: Tất cả Người dùng
-      _user:
-        you_sure: Bạn có chắc không?
-      edit:
-        update_profile: Thay đổi thông tin cá nhân
-        change: Thay đổi
-        edit_title: Sửa thông tin
-        save_changes: Lưu thay đổi
-      new:
-        confirmation_pass: Xác nhận
-        create_acc: Tao tài khoản
-      show:
-        microposts: Microposts
+    wellcome: Chào mừng đến với Sample App
+    signup: Đăng ký
+    confirmation: Xác nhận
+    index:
+      all_users: Tất cả Người dùng
+    _user:
+      you_sure: Bạn có chắc không?
+    edit:
+      update_profile: Thay đổi thông tin cá nhân
+      change: Thay đổi
+      edit_title: Sửa thông tin
+      save_changes: Lưu thay đổi
+    new:
+      confirmation_pass: Xác nhận
+      create_acc: Tao tài khoản
+    show:
+      microposts: Microposts
+    follow:
+      follow: Theo dõi
+    unfollow:
+      _unfollow: Bỏ theo dõi
+    show_follow:
+      view_my_profile: xem trang cá nhân của tôi
   user_mailer:
     hi: Xin chào
     wellcome: Xin chào đến với Sample App! Click link dưới đây để kích hoạt tài khoản của bạn
@@ -88,3 +94,12 @@ vn:
       post: Đăng
     feed:
       no_post: Không có bài viết
+    stats:
+      following: đang theo dõi
+      followers: ngừoi theo dõi
+    show_follow:
+      .microposts: Bài viết
+  followers:
+    followers: ngừoi theo dõi
+  followings:
+    following: đang theo dõi

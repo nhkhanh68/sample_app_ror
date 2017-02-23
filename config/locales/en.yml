@@ -55,6 +55,12 @@ en:
       create_acc: Create my account
     show:
       microposts: Microposts
+    follow:
+      follow: Follow
+    unfollow:
+      _unfollow: Unfollow
+    show_follow:
+      view_my_profile: view my profile
   user_mailer:
     hi: Hi
     wellcome: Welcome to the Sample App! Click on the link below to activate your account
@@ -90,3 +96,12 @@ en:
       post: Post
     feed:
       no_post: No Post
+    stats:
+      following: following
+      followers: followers
+    show_follow:
+      .microposts: Micropost
+  followers:
+    followers: Follower
+  followings:
+    following: Following
